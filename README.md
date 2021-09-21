@@ -1,6 +1,8 @@
-![nick j moss header](https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/Nick%20J%20Moss.png)
-<h1><img src='https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/Nick%20J%20Moss.png'><h1>
-
+<header style='text-align: center;'><img src='https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/Nick%20J%20Moss.png'><header>
+<span><a href='https://www.instagram.com/nick_moss12/'><img height= '30' src='https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/instagram.png'><a><span>
+  
+  
+ 
 <!--
 **nickjmoss/nickjmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
