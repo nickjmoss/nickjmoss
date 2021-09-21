@@ -1,4 +1,5 @@
-[![nick j moss header](https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/Nick%20J%20Moss.png)]
+![nick j moss header](https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/Nick%20J%20Moss.png)
+<h1><img src='https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/Nick%20J%20Moss.png'><h1>
 
 <!--
 **nickjmoss/nickjmoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
