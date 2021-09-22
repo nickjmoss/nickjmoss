@@ -1,9 +1,9 @@
 # [![nick j moss header](https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/Nick.png)](https://www.instagram.com/nick_moss12/)
 <p>
-  <a href='https://www.instagram.com/nick_moss12/'><img height= '30' src='icons/insta-logo.png' target='blank'></a>
-  <a href='https://www.facebook.com/nick.moss.7712826'><img height= '30' src='icons/facebook-logo.png'></a>
-  <a href='https://twitter.com/_nickjmoss'><img height= '31' src='icons/twitter-logo.png'></a>
-  <a href='https://www.buymeacoffee.com/nickmoss'><img height= '30' src='icons/buymeacoffee.png'></a>
+  <a href='https://www.instagram.com/nick_moss12/'><img height= '35' src='icons/insta-logo.png' target='blank'></a>
+  <a href='https://www.facebook.com/nick.moss.7712826'><img height= '35' src='icons/facebook-logo.png'></a>
+  <a href='https://twitter.com/_nickjmoss'><img height= '36' src='icons/twitter-logo.png'></a>
+  <a href='https://www.buymeacoffee.com/nickmoss'><img height= '35' src='icons/buymeacoffee.png'></a>
 </p>
 
 ---
