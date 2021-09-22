@@ -1,4 +1,4 @@
-# [![nick j moss header](https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/Nick%20J%20Moss.png)](https://www.instagram.com/nick_moss12/)
+# [![nick j moss header](https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/Nick.png)](https://www.instagram.com/nick_moss12/)
 <span><a href='https://www.instagram.com/nick_moss12/'><img height= '30' src='https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/instagram.png'><a><span>
 ---
   
