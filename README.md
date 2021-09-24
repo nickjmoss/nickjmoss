@@ -1,4 +1,4 @@
-# [![nick j moss header](https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/Nick.png)](https://www.instagram.com/nick_moss12/)
+# [![nick j moss header](https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/My%20Post.png)](https://www.instagram.com/nick_moss12/)
 <p>
   <a href='https://www.instagram.com/nick_moss12/'><img height= '35' src='icons/insta-logo.png' target='blank'></a>
   <a href='https://www.facebook.com/nick.moss.7712826'><img height= '35' src='icons/facebook-logo.png'></a>
