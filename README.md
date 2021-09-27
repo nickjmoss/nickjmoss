@@ -19,10 +19,10 @@ on over to my blog [nickjmoss.com](https://laughing-beaver-d69b1b.netlify.app/) 
 # My Skills
 |Proficient|Currently Working On|
 |:-:|:-:|
-<img src='icons/python-logo.png' height='30'>|
-|<img src='icons/js-logo.png' height = '30'>
-|<img src='icons/css-logo.png' height = '30'>
-|<img src='icons/html-logo.png' height = '30'>
+|<img src='icons/python-logo.png' height='50'>|<img src='icons/react-logo.png' height = '50'>
+|<img src='icons/postgres-logo.png' height = '60'>|<img src='icons/js-logo.png' height = '50'>
+|<img src='icons/html-logo.png' height = '50'>|<img src='icons/linux-logo.png' height = '50'>
+|<img src='icons/css-logo.png' height = '50'>|
 
 
 
