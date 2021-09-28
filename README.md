@@ -1,8 +1,8 @@
 # [![nick j moss header](https://raw.githubusercontent.com/nickjmoss/nickjmoss/main/My%20Post.png)](https://www.instagram.com/nick_moss12/)
 <p align='center'>
-  <a href='https://www.instagram.com/nick_moss12/'><img height= '35' src='icons/insta-logo.png' target='blank'></a>&nbsp;&nbsp;
-  <a href='https://www.facebook.com/nick.moss.7712826'><img height= '35' src='icons/facebook-logo.png'></a>&nbsp;&nbsp;
+  <a href='https://www.instagram.com/nick_moss12/'><img height= '35' src='icons/insta-logo.png' target='blank'></a>&nbsp;
   <a href='https://twitter.com/_nickjmoss'><img height= '36' src='icons/twitter-logo.png'></a>&nbsp;
+  <a href='https://www.linkedin.com/in/nick-moss-42816019b/'><img height= '35' src='icons/linkedin-logo.png'></a>&nbsp;
   <a href='https://www.buymeacoffee.com/nickmoss'><img height= '35' src='icons/buymeacoffee.png'></a>
 </p>
 
@@ -17,7 +17,7 @@ on over to my blog [nickjmoss.com](https://laughing-beaver-d69b1b.netlify.app/) 
 ---
 
 # My Skills
-|Proficient|Currently Working On|
+|Proficient|Currently Learning|
 |:-:|:-:|
 |<img src='icons/python-logo.png' height='50'>|<img src='icons/react-logo.png' height = '50'>
 |<img src='icons/postgres-logo.png' height = '60'>|<img src='icons/js-logo.png' height = '50'>
