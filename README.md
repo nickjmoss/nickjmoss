@@ -12,7 +12,7 @@
 
 My name is Nick! I am currently a Data Quality Intern at FamilySearch International, one of the largest genealogical organizations in the world and I am also a student at Utah Valley University studying to complete my BS in Computer Science with a concentration on Full-Stack Development. I have a passion for programming
 and I am learning new things daily to improve my abilities as a Full-Stack Developer in training. To learn more about me and what I am currently working on head
-on over to my blog [nickjmoss.com](https://laughing-beaver-d69b1b.netlify.app/) if you like what you find give me a follow on the platforms I have placed above.
+on over to my blog [nickjmoss.com](https://nickjmoss.netlify.app/) if you like what you find give me a follow on the platforms I have placed above.
 
 ---
 
