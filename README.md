@@ -3,7 +3,7 @@
   <a href='https://www.instagram.com/nick_moss12/'><img height= '35' src='icons/insta-logo.png' target='blank'></a>&nbsp;
   <a href='https://twitter.com/_nickjmoss'><img height= '36' src='icons/twitter-logo.png'></a>&nbsp;
   <a href='https://www.linkedin.com/in/nick-moss-42816019b/'><img height= '35' src='icons/linkedin-logo.png'></a>&nbsp;
-  <a href='https://www.buymeacoffee.com/nickmoss'><img height= '35' src='icons/buymeacoffee.png'></a>
+  <a href='https://www.buymeacoffee.com/nickjmoss'><img height= '35' src='icons/buymeacoffee.png'></a>
 </p>
 
 ---
