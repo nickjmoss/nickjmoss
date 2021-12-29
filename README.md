@@ -19,7 +19,7 @@ My name is Nick! I am currently a Software Engineer at Clozd Inc., which special
 ---
 
 ## My Experience
-<a href="https://clozd.com/" target="blank"><img src="icons/clozd.png" height="75"></a>
+<a href="https://clozd.com/" target="_blank"><img src="icons/clozd.png" height="75"></a>
 
 ### Software Engineer
 
@@ -29,7 +29,7 @@ My name is Nick! I am currently a Software Engineer at Clozd Inc., which special
 &nbsp;  
 
 
-<a href="https://familysearch.org/"><img src="icons/fs.png" height="50"></a>
+<a href="https://familysearch.org/" target="_blank"><img src="icons/fs.png" height="50"></a>
 ### Data Quality Intern
 
 *March 2021-Jan 2022*
@@ -43,7 +43,7 @@ My name is Nick! I am currently a Software Engineer at Clozd Inc., which special
 &nbsp;  
 
 
-<a href="https://phlebotomyusa.com/" target="blank"><img src="icons/pts.png" height="50"></a>
+<a href="https://phlebotomyusa.com/" target="_blank"><img src="icons/pts.png" height="50"></a>
 
 ### Student Services Representative
 
@@ -68,9 +68,9 @@ information and using sales tactics.
 ---
 
 ## My Projects
-<a href="https://github.com/nickjmoss/my_blog" target="blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=my_blog&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-<a href="https://github.com/nickjmoss/dotfiles" target="blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=dotfiles&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-<a href="https://github.com/nickjmoss/nickjmoss" target="blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=nickjmoss&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/nickjmoss/my_blog" target="_blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=my_blog&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/nickjmoss/dotfiles" target="_blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=dotfiles&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/nickjmoss/nickjmoss" target="_blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=nickjmoss&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
 ## Nick's GitHub Stats
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nickjmoss&theme=white"></a>
@@ -80,11 +80,11 @@ information and using sales tactics.
 ---
 
 ## Contact Me
-<a href="https://instagram.com/nick_moss12" targe="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/_nickjmoss" targe="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/nick-moss-42816019b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/nick_moss12" targe="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/_nickjmoss" targe="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nick-moss-42816019b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:nick.moss000@gmail.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 
 ## Support Me
-<a href="https://buymeacoffee.com/nickjmoss" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+<a href="https://buymeacoffee.com/nickjmoss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
 
