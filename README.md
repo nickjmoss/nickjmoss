@@ -71,6 +71,7 @@ information and using sales tactics.
 <a href="https://github.com/nickjmoss/my_blog" target="_blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=my_blog&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/nickjmoss/dotfiles" target="_blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=dotfiles&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/nickjmoss/nickjmoss" target="_blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=nickjmoss&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/nickjmoss/interview" target="_blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=interview&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
 ## Nick's GitHub Stats
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nickjmoss&theme=white"></a>
