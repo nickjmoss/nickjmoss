@@ -5,6 +5,19 @@ My name is Nick! I am currently a Software Engineer at Clozd Inc., which special
 
 ---
 
+## Hobbies
+- 🏀 I love playing basketball
+- 🎧 I love listening to music
+- 🚶‍♂️ My wife and I like to go hiking
+- 🏝 We also like to travel
+
+### My Spotify
+Check out my Spotify to see what I am listening to! I have all kinds of playlists and ones that you can listen to while you are coding!
+
+<a href="https://open.spotify.com/user/1254194014?si=d4975dea502b439b"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+
+---
+
 ## My Skills
 
 ### Proficient:
@@ -73,7 +86,9 @@ information and using sales tactics.
 <a href="https://github.com/nickjmoss/nickjmoss" target="_blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=nickjmoss&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 <a href="https://github.com/nickjmoss/interview" target="_blank"><img width="290" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nickjmoss&repo=interview&bg_color=FFFFFF&title_color=3081ED&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
-## Nick's GitHub Stats
+---
+
+## My GitHub Stats
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nickjmoss&theme=white"></a>
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickjmoss&theme=white"></a>
