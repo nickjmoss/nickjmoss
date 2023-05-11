@@ -1,4 +1,3 @@
-# [![nick j moss header](icons/banner.png)](https://nickjmoss.netlify.app)
 # Hello!👋
 
 My name is Nick! I am currently a Software Engineer at Clozd Inc., which specializes in win-loss analysis. I am on my way to receiving my BS in Computer Science at Utah Valley University with a concentration in Full-Stack Development. I love programming and I am learning new things daily to improve my skills in software engineering and full-stack development. Take a look at the rest of my profile to learn more about me, you can also check me out on other platforms just look at my <a href="#contact-me">Contact Me</a> section.
